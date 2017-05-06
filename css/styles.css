@@ -1,0 +1,21 @@
+/* Navbar top and botton styling */
+.top-nav {
+    background-color: #333333;
+ 
+}
+.currency-dropdown {
+    color: #777777;
+    float: left;
+}
+.registration {
+    color: #9fa1a3;
+}
+.float-items {
+    float: right;
+}
+.shopping-cart:hover {
+    background-color: #00c8c8
+}
+.fa-shopping-cart {
+    color: #FFFFFF;
+}
