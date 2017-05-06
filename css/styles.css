@@ -12,10 +12,14 @@
 }
 .float-items {
     float: right;
+    display: inline;
 }
 .shopping-cart:hover {
     background-color: #00c8c8
 }
 .fa-shopping-cart {
     color: #FFFFFF;
+}
+.navbar-brand {
+    float: left;
 }
